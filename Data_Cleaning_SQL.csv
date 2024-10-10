@@ -1,0 +1,221 @@
+Facility_Name,Location,Type,Total_Beds,Rating,Date,Accreditation_Status,Country,Annual_Visits,Funding_Received_(Millions)
+Facility-A,Berlin,Hospital,146,4.3,1970-01-01,Not_Accredited,Germany,2975,22.04
+Facility E,London,Hospital,,,1970-01-01,Accredited,UK,6939,
+Facility_C,London,SpecialtyCare,143,2.7,1970-01-01,Accredited,USA,9882,18.64
+Facility E,Berlin,SpecialtyCare,270,2.8,1970-01-01,Not_Accredited,Japan,4397,11.28
+Facility B,London,SpecialtyCare,227,1.0,1970-01-01,Accredited,USA,9983,4.14
+Facility-A,Tokyo,SpecialtyCare,96,2.5,1970-01-01,Accredited,Japan,1881,21.79
+Facility B,San Francisco,SpecialtyCare,263,4.0,1970-01-01,Pending,UK,4170,17.55
+Facility_C,London,Clinic,,,1970-01-01,Accredited,UK,1482,
+Facility_C,Berlin,SpecialtyCare,158,3.0,1970-01-01,Pending,USA,2722,3.85
+Facility E,New York,Hospital,230,3.6,1970-01-01,Not_Accredited,France,9432,10.35
+FacilityD,Berlin,Hospital,123,1.1,1970-01-01,Accredited,USA,6758,18.84
+FacilityD,Berlin,Clinic,52,3.7,1970-01-01,Pending,Japan,9026,18.08
+Facility B,New York,Clinic,109,1.3,1970-01-01,Accredited,Germany,9534,25.56
+Facility E,London,Hospital,277,3.5,1970-01-01,Accredited,USA,5628,12.21
+Facility-A,London,Clinic,261,1.3,1970-01-01,Pending,Japan,5397,22.54
+Facility B,Berlin,Hospital,55,2.7,1970-01-01,Not_Accredited,Germany,1424,23.62
+Facility B,San Francisco,Hospital,50,1.2,1970-01-01,Not_Accredited,UK,2956,20.79
+Facility_C,Berlin,Hospital,101,3.5,1970-01-01,Not_Accredited,UK,5798,18.05
+Facility-A,London,Hospital,175,2.2,1970-01-01,Pending,Germany,5289,14.39
+Facility_C,New York,Hospital,77,1.4,1970-01-01,Not_Accredited,France,9454,30.0
+Facility_C,Berlin,Hospital,184,3.0,1970-01-01,Accredited,Germany,1024,5.26
+FacilityD,San Francisco,Clinic,218,2.1,1970-01-01,Pending,Germany,6774,17.85
+Facility E,San Francisco,SpecialtyCare,99,1.3,1970-01-01,Not_Accredited,UK,7455,9.76
+Facility B,Berlin,Hospital,288,1.7,1970-01-01,Not_Accredited,USA,7539,27.06
+FacilityD,London,Hospital,222,4.4,1970-01-01,Pending,Japan,1947,25.32
+Facility E,London,Clinic,258,3.2,1970-01-01,Pending,Germany,8755,20.1
+Facility B,London,SpecialtyCare,83,3.1,1970-01-01,Not_Accredited,Germany,6906,21.63
+Facility B,New York,Hospital,92,3.6,1970-01-01,Not_Accredited,USA,7941,7.17
+Facility-A,New York,SpecialtyCare,295,3.6,1970-01-01,Accredited,France,6482,19.13
+Facility E,London,Hospital,123,2.1,1970-01-01,Pending,France,1209,8.2
+FacilityD,London,SpecialtyCare,291,1.8,1970-01-01,Accredited,USA,9795,15.72
+Facility E,London,SpecialtyCare,111,3.4,1970-01-01,Accredited,France,1030,9.03
+Facility_C,London,Clinic,262,2.3,1970-01-01,Accredited,France,2942,22.24
+Facility E,Berlin,SpecialtyCare,264,4.1,1970-01-01,Accredited,UK,7807,3.15
+Facility E,New York,Clinic,100,2.9,1970-01-01,Not_Accredited,USA,1684,27.92
+Facility E,San Francisco,Clinic,83,4.6,1970-01-01,Accredited,France,1683,13.16
+Facility_C,San Francisco,Hospital,,,1970-01-01,Accredited,Germany,6669,
+Facility E,San Francisco,Hospital,278,3.9,1970-01-01,Accredited,Germany,8461,23.74
+Facility B,Berlin,Clinic,58,3.2,1970-01-01,Not_Accredited,Japan,2521,17.75
+FacilityD,San Francisco,Clinic,,,1970-01-01,Accredited,UK,1154,
+FacilityD,San Francisco,SpecialtyCare,95,1.8,1970-01-01,Pending,Germany,8255,17.88
+Facility_C,Tokyo,SpecialtyCare,188,2.3,1970-01-01,Not_Accredited,France,2859,11.85
+Facility E,Berlin,Hospital,173,2.0,1970-01-01,Pending,USA,7940,10.56
+Facility E,New York,Clinic,181,3.6,1970-01-01,Accredited,Japan,3874,15.57
+FacilityD,San Francisco,Hospital,235,1.9,1970-01-01,Accredited,USA,1920,27.53
+FacilityD,Berlin,SpecialtyCare,139,3.4,1970/01/01,Accredited,Japan,7041,17.32
+Facility_C,Berlin,Hospital,64,1.8,1970-01-01,Not_Accredited,USA,1561,4.66
+Facility_C,London,Clinic,267,4.2,1970-01-01,Not_Accredited,Japan,9491,20.91
+Facility_C,Tokyo,Clinic,116,3.2,1970/01/01,Pending,Germany,9597,1.49
+Facility_C,Berlin,SpecialtyCare,265,2.0,1970-01-01,Pending,Japan,8773,7.66
+Facility_C,Berlin,SpecialtyCare,295,2.9,1970-01-01,Pending,Japan,1245,16.57
+FacilityD,New York,Hospital,155,5.0,1970-01-01,Not_Accredited,Japan,7059,9.22
+FacilityD,Tokyo,SpecialtyCare,283,2.4,1970-01-01,Accredited,France,5843,26.51
+FacilityD,San Francisco,Clinic,93,4.8,1970-01-01,Pending,Japan,4076,29.35
+FacilityD,Tokyo,Clinic,252,2.2,1970-01-01,Pending,France,9342,23.14
+Facility E,London,SpecialtyCare,62,2.9,1970-01-01,Accredited,Japan,4619,4.37
+Facility_C,Berlin,Clinic,294,3.0,1970/01/01,Not_Accredited,USA,7420,4.25
+Facility E,Tokyo,Clinic,251,3.4,1970/01/01,Not_Accredited,Japan,1034,5.27
+Facility_C,London,SpecialtyCare,150,4.4,1970-01-01,Not_Accredited,France,6286,26.39
+Facility-A,San Francisco,SpecialtyCare,,,1970-01-01,Not_Accredited,USA,6613,
+FacilityD,New York,Hospital,154,3.0,1970-01-01,Not_Accredited,USA,2882,9.48
+Facility-A,London,Hospital,241,4.4,1970-01-01,Accredited,Germany,4069,26.2
+Facility E,Tokyo,SpecialtyCare,,,1970-01-01,Pending,France,5646,
+Facility_C,Berlin,Hospital,95,4.1,1970-01-01,Pending,UK,8599,19.1
+Facility B,Berlin,Clinic,147,2.4,1970-01-01,Accredited,France,5666,28.53
+Facility-A,San Francisco,Hospital,224,1.9,1970-01-01,Not_Accredited,France,1826,26.96
+Facility B,London,SpecialtyCare,106,4.1,1970-01-01,Accredited,UK,2353,18.84
+Facility E,London,Clinic,229,1.8,1970-01-01,Pending,USA,9811,9.92
+Facility B,San Francisco,Clinic,292,1.5,1970-01-01,Not_Accredited,France,2960,3.69
+FacilityD,New York,Hospital,224,2.0,1970/01/01,Accredited,USA,1785,15.62
+FacilityD,San Francisco,SpecialtyCare,171,3.6,1970-01-01,Accredited,Japan,2217,12.01
+Facility-A,Berlin,SpecialtyCare,106,4.9,1970-01-01,Pending,Germany,5538,21.67
+FacilityD,Tokyo,SpecialtyCare,182,3.6,1970/01/01,Accredited,France,4578,10.29
+Facility E,Berlin,Hospital,102,2.3,1970-01-01,Accredited,Japan,8340,15.83
+Facility_C,Tokyo,Hospital,247,2.6,1970-01-01,Accredited,UK,2759,11.07
+Facility_C,New York,SpecialtyCare,187,2.7,1970-01-01,Not_Accredited,Japan,4160,6.71
+FacilityD,New York,Hospital,150,1.3,1970-01-01,Accredited,USA,9377,16.29
+Facility-A,New York,SpecialtyCare,240,2.5,1970-01-01,Not_Accredited,Japan,9879,7.47
+Facility E,San Francisco,Hospital,130,3.7,1970-01-01,Accredited,Japan,1812,17.61
+Facility_C,London,Clinic,77,4.7,1970-01-01,Pending,UK,6716,14.65
+Facility E,London,SpecialtyCare,161,1.3,1970-01-01,Pending,Germany,4735,19.03
+Facility B,London,Clinic,,,1970-01-01,Accredited,France,3342,
+FacilityD,Tokyo,Clinic,121,1.8,1970-01-01,Pending,USA,5268,27.6
+Facility-A,London,Clinic,184,4.5,1970-01-01,Not_Accredited,Germany,1546,28.39
+Facility E,London,SpecialtyCare,219,1.6,1970/01/01,Accredited,UK,5491,8.7
+Facility-A,Berlin,Hospital,165,3.0,1970-01-01,Pending,Germany,5817,7.62
+Facility E,Tokyo,Clinic,,,1970-01-01,Accredited,UK,8224,
+FacilityD,London,SpecialtyCare,138,1.5,1970-01-01,Pending,USA,5529,11.76
+Facility E,London,Hospital,236,2.1,1970-01-01,Accredited,Germany,6764,20.69
+Facility-A,San Francisco,SpecialtyCare,170,3.6,1970-01-01,Pending,UK,2077,16.35
+Facility_C,London,Clinic,,,1970-01-01,Pending,UK,2689,
+Facility E,New York,Hospital,,,1970-01-01,Accredited,Japan,1395,
+Facility-A,London,SpecialtyCare,264,3.8,1970-01-01,Accredited,UK,1370,16.37
+FacilityD,Tokyo,Clinic,198,3.9,1970/01/01,Accredited,Japan,8088,8.95
+FacilityD,London,Hospital,239,1.0,1970-01-01,Accredited,USA,3703,29.84
+Facility_C,Berlin,Clinic,172,3.1,1970-01-01,Pending,France,9549,7.85
+Facility B,Berlin,Hospital,66,1.7,1970-01-01,Pending,Germany,9648,3.31
+FacilityD,San Francisco,Clinic,277,3.5,1970-01-01,Accredited,UK,7735,8.09
+FacilityD,Berlin,SpecialtyCare,183,4.3,1970-01-01,Pending,Germany,5736,12.96
+Facility B,Tokyo,Hospital,123,2.0,1970-01-01,Accredited,UK,6592,23.46
+Facility-A,San Francisco,SpecialtyCare,125,4.1,1970-01-01,Accredited,UK,6833,26.06
+Facility B,San Francisco,Clinic,170,3.8,1970-01-01,Pending,USA,5443,25.45
+Facility-A,Berlin,SpecialtyCare,122,1.2,1970/01/01,Accredited,USA,7340,9.85
+FacilityD,London,SpecialtyCare,210,1.5,1970-01-01,Pending,Germany,2877,29.63
+Facility B,Berlin,Hospital,190,4.8,1970-01-01,Accredited,USA,3671,2.33
+Facility-A,New York,Hospital,224,2.3,1970-01-01,Pending,Germany,3028,17.44
+Facility_C,Berlin,Clinic,56,2.8,1970-01-01,Not_Accredited,UK,2400,14.13
+Facility_C,London,SpecialtyCare,116,2.2,1970-01-01,Not_Accredited,Germany,3181,24.2
+Facility-A,San Francisco,Clinic,177,4.5,1970/01/01,Pending,UK,9196,29.15
+FacilityD,Tokyo,Hospital,55,2.4,1970-01-01,Accredited,Japan,8271,14.46
+Facility E,London,SpecialtyCare,204,3.1,1970-01-01,Pending,France,1581,23.69
+FacilityD,Berlin,SpecialtyCare,156,1.3,1970/01/01,Accredited,USA,2176,11.82
+FacilityD,Berlin,SpecialtyCare,290,3.6,1970-01-01,Not_Accredited,UK,3660,5.19
+Facility B,Berlin,Hospital,171,3.6,1970-01-01,Accredited,Germany,2857,11.62
+Facility-A,London,Hospital,155,3.0,1970-01-01,Pending,France,4014,25.78
+Facility E,New York,Clinic,66,1.8,1970-01-01,Not_Accredited,Germany,2696,29.49
+Facility B,London,Clinic,64,3.6,1970-01-01,Accredited,USA,9019,18.16
+Facility E,San Francisco,Hospital,52,3.5,1970/01/01,Accredited,UK,1998,28.55
+Facility E,San Francisco,Clinic,77,3.1,1970-01-01,Accredited,France,2263,17.06
+Facility-A,Tokyo,SpecialtyCare,132,1.6,1970-01-01,Pending,UK,1954,24.54
+Facility_C,Tokyo,SpecialtyCare,86,4.7,1970-01-01,Pending,Germany,7759,21.36
+FacilityD,London,Clinic,126,4.2,1970-01-01,Not_Accredited,France,5071,1.59
+Facility B,San Francisco,Clinic,,,1970-01-01,Accredited,Germany,6382,
+Facility E,London,Hospital,220,1.8,1970-01-01,Not_Accredited,UK,3369,2.07
+Facility E,Tokyo,Clinic,79,4.6,1970/01/01,Accredited,Japan,8027,6.91
+Facility B,London,SpecialtyCare,224,1.8,1970-01-01,Pending,UK,6572,24.57
+Facility B,San Francisco,SpecialtyCare,161,4.6,1970-01-01,Pending,UK,7920,12.37
+Facility_C,Berlin,SpecialtyCare,156,1.1,1970-01-01,Accredited,Germany,7589,22.52
+FacilityD,San Francisco,Hospital,229,4.6,1970-01-01,Not_Accredited,UK,6666,9.77
+Facility-A,Berlin,Clinic,127,2.4,1970-01-01,Accredited,Germany,8467,16.17
+Facility E,London,Hospital,,,1970-01-01,Pending,Japan,8363,
+Facility E,Tokyo,Hospital,100,4.9,1970-01-01,Accredited,Germany,8916,8.74
+FacilityD,Tokyo,Clinic,219,3.2,1970-01-01,Pending,Germany,6808,27.88
+Facility_C,New York,Hospital,254,1.6,1970-01-01,Accredited,France,3533,12.99
+Facility B,New York,Hospital,157,2.3,1970-01-01,Pending,USA,8781,0.79
+Facility E,New York,Clinic,144,3.5,1970-01-01,Pending,USA,6339,2.97
+FacilityD,Berlin,Clinic,281,2.0,1970-01-01,Pending,France,4303,19.39
+Facility B,Berlin,SpecialtyCare,221,1.9,1970-01-01,Accredited,UK,6940,25.04
+Facility_C,Berlin,Clinic,123,1.3,1970-01-01,Accredited,UK,2814,13.98
+Facility_C,London,SpecialtyCare,278,3.4,1970-01-01,Accredited,France,3279,22.66
+Facility_C,London,SpecialtyCare,244,2.3,1970-01-01,Not_Accredited,UK,7403,15.83
+Facility_C,Tokyo,Hospital,226,2.0,1970/01/01,Pending,UK,8171,21.87
+Facility_C,Tokyo,SpecialtyCare,191,4.2,1970-01-01,Not_Accredited,Japan,5431,16.28
+Facility E,San Francisco,Hospital,266,2.7,1970-01-01,Accredited,France,4273,25.42
+Facility_C,London,Clinic,71,1.6,1970-01-01,Not_Accredited,Germany,9455,6.06
+Facility E,Tokyo,SpecialtyCare,180,3.6,1970-01-01,Not_Accredited,USA,8601,7.73
+Facility_C,Berlin,Hospital,195,4.7,1970/01/01,Pending,UK,9316,3.98
+Facility-A,Tokyo,Hospital,256,2.0,1970-01-01,Accredited,Germany,6539,4.25
+FacilityD,Berlin,Clinic,159,1.3,1970-01-01,Accredited,Japan,4097,20.0
+Facility B,London,Clinic,97,3.0,1970/01/01,Accredited,Japan,2173,4.94
+Facility E,London,Clinic,158,4.2,1970-01-01,Pending,Japan,3085,26.63
+Facility_C,New York,Clinic,226,3.7,1970-01-01,Not_Accredited,Japan,5959,0.99
+Facility-A,San Francisco,Clinic,294,1.4,1970-01-01,Pending,Japan,2221,3.81
+Facility_C,Tokyo,SpecialtyCare,,,1970-01-01,Pending,UK,3841,
+FacilityD,London,Clinic,221,1.8,1970-01-01,Accredited,UK,3913,1.1
+Facility-A,New York,Clinic,174,1.6,1970-01-01,Pending,France,2441,29.35
+Facility B,Berlin,Clinic,97,3.4,1970-01-01,Not_Accredited,Japan,6577,9.51
+Facility-A,Tokyo,SpecialtyCare,230,1.1,1970-01-01,Not_Accredited,USA,8696,8.56
+Facility E,London,Clinic,,,1970-01-01,Not_Accredited,UK,5395,
+Facility-A,Berlin,Clinic,236,4.0,1970-01-01,Pending,UK,7466,24.78
+Facility_C,London,SpecialtyCare,257,1.2,1970-01-01,Not_Accredited,USA,2753,26.08
+Facility-A,Tokyo,Hospital,133,4.5,1970-01-01,Pending,Japan,5901,23.17
+FacilityD,London,Hospital,259,5.0,1970/01/01,Pending,Germany,2070,24.35
+Facility E,Tokyo,Clinic,286,4.4,1970-01-01,Accredited,USA,7748,25.9
+Facility B,New York,Clinic,73,2.1,1970/01/01,Accredited,USA,9945,11.93
+FacilityD,Berlin,Hospital,237,1.8,1970-01-01,Pending,Japan,5577,4.66
+FacilityD,London,Clinic,86,3.1,1970-01-01,Accredited,Germany,1551,10.74
+Facility_C,New York,SpecialtyCare,186,4.6,1970/01/01,Accredited,France,9729,9.36
+Facility-A,San Francisco,SpecialtyCare,205,2.2,1970-01-01,Pending,USA,5907,29.63
+Facility E,San Francisco,Hospital,245,4.4,1970-01-01,Pending,Germany,8940,8.2
+Facility_C,Tokyo,SpecialtyCare,102,2.0,1970-01-01,Pending,UK,3758,1.23
+Facility_C,Tokyo,Clinic,122,3.1,1970-01-01,Accredited,UK,7999,7.04
+Facility E,Tokyo,Clinic,269,2.8,1970-01-01,Not_Accredited,Germany,2915,29.54
+Facility B,Berlin,SpecialtyCare,134,3.4,1970/01/01,Pending,USA,1055,17.31
+FacilityD,New York,SpecialtyCare,,,1970-01-01,Accredited,Japan,3307,
+Facility_C,New York,Clinic,115,2.0,1970-01-01,Pending,Germany,4497,3.88
+Facility B,Tokyo,Hospital,161,1.4,1970-01-01,Not_Accredited,Japan,5107,29.11
+FacilityD,San Francisco,Clinic,298,4.4,1970-01-01,Accredited,UK,2718,24.73
+Facility E,London,SpecialtyCare,294,3.7,1970-01-01,Pending,Japan,6168,11.92
+FacilityD,Tokyo,Clinic,174,2.6,1970/01/01,Not_Accredited,France,9799,14.47
+Facility B,New York,SpecialtyCare,169,2.7,1970-01-01,Pending,USA,7774,22.87
+Facility E,Tokyo,Clinic,266,2.7,1970-01-01,Accredited,USA,5914,18.71
+Facility-A,Tokyo,SpecialtyCare,95,4.2,1970/01/01,Not_Accredited,Japan,6171,23.82
+Facility B,New York,SpecialtyCare,230,4.9,1970-01-01,Accredited,France,3957,21.01
+Facility_C,San Francisco,Clinic,170,3.8,1970/01/01,Pending,USA,4108,22.01
+Facility-A,San Francisco,SpecialtyCare,,,1970-01-01,Not_Accredited,Germany,5984,
+Facility_C,Tokyo,Hospital,228,4.7,1970-01-01,Accredited,France,3025,22.39
+Facility_C,London,Clinic,54,2.4,1970-01-01,Accredited,USA,1582,0.96
+FacilityD,New York,Clinic,,,1970-01-01,Pending,Germany,8773,
+FacilityD,New York,SpecialtyCare,67,4.5,1970-01-01,Pending,Japan,8065,23.08
+Facility E,London,SpecialtyCare,116,2.2,1970-01-01,Not_Accredited,UK,1117,8.97
+FacilityD,Tokyo,Hospital,92,2.4,1970-01-01,Accredited,France,6118,9.84
+FacilityD,London,SpecialtyCare,250,4.6,1970-01-01,Not_Accredited,Germany,2210,14.94
+Facility_C,London,SpecialtyCare,89,1.2,1970-01-01,Accredited,Germany,1330,12.02
+Facility_C,San Francisco,Clinic,125,4.3,1970-01-01,Accredited,UK,2793,2.93
+Facility_C,New York,SpecialtyCare,190,3.6,1970-01-01,Not_Accredited,USA,5758,18.27
+Facility_C,London,Hospital,185,2.1,1970/01/01,Accredited,Germany,8146,17.31
+FacilityD,Tokyo,Hospital,66,4.6,1970-01-01,Pending,UK,2879,2.81
+Facility E,New York,SpecialtyCare,,,1970/01/01,Not_Accredited,France,9252,
+Facility_C,London,SpecialtyCare,248,4.2,1970-01-01,Accredited,UK,3585,24.86
+Facility-A,Berlin,Hospital,146,4.3,1970-01-01,Not_Accredited,Germany,2975,22.04
+Facility E,London,Hospital,89,2.8,1970-01-01,Accredited,UK,6939,2.73
+Facility_C,London,SpecialtyCare,143,2.7,1970-01-01,Accredited,USA,9882,18.64
+Facility E,Berlin,SpecialtyCare,270,2.8,1970-01-01,Not_Accredited,Japan,4397,11.28
+Facility B,London,SpecialtyCare,227,1.0,1970-01-01,Accredited,USA,9983,4.14
+Facility-A,Tokyo,SpecialtyCare,96,2.5,1970-01-01,Accredited,Japan,1881,21.79
+Facility B,San Francisco,SpecialtyCare,263,4.0,1970-01-01,Pending,UK,4170,17.55
+Facility_C,London,Clinic,84,1.5,1970-01-01,Accredited,UK,1482,21.19
+Facility_C,Berlin,SpecialtyCare,158,3.0,1970-01-01,Pending,USA,2722,3.85
+Facility E,New York,Hospital,230,3.6,1970-01-01,Not_Accredited,France,9432,10.35
+FacilityD,Berlin,Hospital,,,1970-01-01,Accredited,USA,6758,
+FacilityD,Berlin,Clinic,52,3.7,1970-01-01,Pending,Japan,9026,18.08
+Facility B,New York,Clinic,,,1970-01-01,Accredited,Germany,9534,
+Facility E,London,Hospital,,,1970-01-01,Accredited,USA,5628,
+Facility-A,London,Clinic,261,1.3,1970-01-01,Pending,Japan,5397,22.54
+Facility B,Berlin,Hospital,,,1970-01-01,Not_Accredited,Germany,1424,
+Facility B,San Francisco,Hospital,50,1.2,1970-01-01,Not_Accredited,UK,2956,20.79
+Facility_C,Berlin,Hospital,101,3.5,1970-01-01,Not_Accredited,UK,5798,18.05
+Facility-A,London,Hospital,175,2.2,1970-01-01,Pending,Germany,5289,14.39
+Facility_C,New York,Hospital,77,1.4,1970-01-01,Not_Accredited,France,9454,30.0
