@@ -1,0 +1,55 @@
+-- EDA USING SQL
+SELECT *
+FROM health3; 
+
+
+# WHAT FACILITIES HAVE THE HIGHEST RATING AND WWHAT COUNTRY THEY'RE FROM 
+SELECT  Facility_Name, MAX(rating), Country
+FROM health3
+GROUP BY Facility_Name, Country
+ORDER BY 2 DESC;
+
+# USING WINDOW FUNCTION TO CALCULATE RANKINGS OR PERCENTAGE FOR FACILILTES IN THEIR COUNTRY BASED ON RATINGS
+SELECT Facility_Name, Country, Rating,
+       RANK() OVER (PARTITION BY Country ORDER BY Rating DESC) AS Country_Rating_Rank,
+       ROUND(PERCENT_RANK() OVER (PARTITION BY Country ORDER BY Rating DESC),1) AS Country_Rating_Percentile
+FROM health3;
+
+# DOES ACCREDITION STATUS EFFECT THE RATING AND SIZE OF THE FACILITY 
+SELECT Accreditation_Status, ROUND(AVG(Rating),0), SUM(Total_Beds)
+FROM health3
+GROUP BY Accreditation_Status
+ORDER BY 2 DESC;
+
+
+# LOOKING FOR A RELATIONSHIP BETWEEN FUNDING AND RATINGS 
+SELECT Facility_Name, `Funding_Received_(Millions)`, Rating
+FROM health3
+ORDER BY 3 DESC;
+
+# WHAT COUNTRY HOLDS THE HIGHEST RATED FACILITIES 
+SELECT Country, ROUND(SUM(rating),0)
+FROM health3
+GROUP BY COUNTRY
+ORDER BY 2 DESC;
+
+# WHAT TYPE OF FACILITES ACCOMODATE THE MOST PEOPLE 
+SELECT `Type`, SUM(Total_Beds), SUM(Annual_Visits)
+FROM health3
+GROUP BY `type`
+ORDER BY 2 DESC;
+
+
+# CALCULATING WHETHER THERE ARE ANY OUTLIERS IN THE DATA
+SELECT Facility_Name, Rating,
+       CASE
+           WHEN Rating > AVG(Rating) OVER() + 3 * STDDEV(Rating) OVER() THEN 'High Outlier'
+           WHEN Rating < AVG(Rating) OVER() - 3 * STDDEV(Rating) OVER() THEN 'Low Outlier'
+           ELSE 'Normal'
+       END AS Rating_Classification
+FROM health3;
+
+
+
+
+
